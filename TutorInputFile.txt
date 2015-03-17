@@ -1,0 +1,4 @@
+10:Grace:Tan:9919 4685:ECB2112:Security, Privacy and Ethics:2:ECB2123:Programming for Networks:2:ECB1121:Programming Principles:1
+8:Nguyen:Vo:9919 5209:ECB1121:Programming Principles:1:ECB2123:Programming for Networks:2
+3:Anne:Venables:9919 5209:ECB2112:Security, Privacy and Ethics:2:ECB1121:Programming Principles:1:ECB1131:Computer Network Concepts:1:ECB2112:Operating Systems:2
+10:Dan:Nelson:0405 678 876:ECB1121:Programming Principles:1:ECB2123:Programming for Networks:2

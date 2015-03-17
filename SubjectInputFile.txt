@@ -1,0 +1,6 @@
+ECB1111:Introduction to Computer Systems:1
+ECB1121:Programming Principles:1
+ECB1151:Communication & Information Management:1
+ECB2112:Security, Privacy and Ethics:2:ECB2123:Programming for Networks:2
+ECB3143:Network Management:3:ECB3154:Computing Project Analysis & Design:3:ECB3244:Advanced Network Technologies:3
+	
